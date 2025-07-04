@@ -1,0 +1,15 @@
+{
+  "os_icon": " OS:",
+  "os_color": "#F2CDCD",
+  "cpu_icon": " CPU:",
+  "cpu_color": "#ABE9B3",
+  "ram_icon": " RAM:",
+  "ram_color": "#7DC4E4",
+  "shell_icon": " Shell:",
+  "shell_color": "#F9E2AF",
+  "wm_icon": "󰍹 WM:",
+  "wm_color": "#DDB6F2",
+  "gpu_icon": " GPU:",
+  "gpu_color": "#F28FAD"
+}
+
