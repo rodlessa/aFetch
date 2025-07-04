@@ -1,6 +1,11 @@
 # aFetch
 Another Fetch
 
+## Build own bin
+
+```
+g++ afetch.cpp  -o afetch
+```
 
 ## Themes
 
